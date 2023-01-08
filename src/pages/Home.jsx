@@ -48,9 +48,7 @@ const Home = () => {
         </div>
         <div className="flex-box display-img-div">
           <div className="food-chop-image">
-            <img
-              src={FoodChop}
-            />
+            <img src={FoodChop} alt="jackfruit-image" />
           </div>
           <div className="raw-jack-div">
             <h3>Raw jack</h3>
